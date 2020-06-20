@@ -11,3 +11,5 @@ mit den Römern.
 * überlegen
 * regt sich nur ab und zu auf
 
+Asterix und sein Freund Obelix sind der Meinung:
+> Die spinnen die Römer
