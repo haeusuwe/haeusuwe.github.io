@@ -13,3 +13,5 @@ mit den Römern.
 
 Asterix und sein Freund Obelix sind der Meinung:
 > Die spinnen die Römer
+
+<img src="https://de.wikipedia.org/wiki/Asterix#/media/Datei:Ast%C3%A9rix_&_Ob%C3%A9lix_Bruxelles_rue_de_la_Buanderie.jpg"/>
